@@ -1,4 +1,4 @@
-﻿<table align="center" border="0">
+<table align="center" border="0">
 
 <tr><td colspan=2 align="center">
 
@@ -296,7 +296,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 <a href="https://www.reddit.com/r/DeepFakesSFW/new/">reddit r/DeepFakesSFW/</a>
 </td><td align="center">Post your deepfakes there !</td></tr>
 
-<tr><td align="right">
+        <tr><td align="right">
 <a href="https://www.reddit.com/r/RUdeepfakes/new/">reddit r/RUdeepfakes/</a>
 </td><td align="center">Постим русские дипфейки сюда !</td></tr>
 
