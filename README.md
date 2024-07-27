@@ -396,7 +396,7 @@ Register github account and push "Star" button.
 <tr><td align="center" width="50%">
 
 <img src="doc/meme1.jpg" align="center">
-
+        
 </td>
 
 <td align="center" width="50%">
